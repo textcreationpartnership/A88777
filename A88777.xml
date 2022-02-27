@@ -1,0 +1,238 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two sallies forth by the Lord Goring and Sir Charles Lucas at Coulchester, on Munday and Tuesday last; the manner of the severall fights, and the number that were killed and taken prisoners on both sides. The taking of the enemies court of guard, the setting fire thereof, and burning downe the wind-mills. With the examination of Mr. Osburn, touching the Kings Majesty; and the speech of Alderman Avery, at presenting the city petition; and the answer to the same by both Houses of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88777</idno>
+            <idno type="STC">Wing L56A</idno>
+            <idno type="STC">Thomason E450_10</idno>
+            <idno type="EEBO-CITATION">99873483</idno>
+            <idno type="PROQUEST">99873483</idno>
+            <idno type="VID">161899</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88777)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161899)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E450[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two sallies forth by the Lord Goring and Sir Charles Lucas at Coulchester, on Munday and Tuesday last; the manner of the severall fights, and the number that were killed and taken prisoners on both sides. The taking of the enemies court of guard, the setting fire thereof, and burning downe the wind-mills. With the examination of Mr. Osburn, touching the Kings Majesty; and the speech of Alderman Avery, at presenting the city petition; and the answer to the same by both Houses of Parliament.</title>
+                  <author>R. L.</author>
+                  <author>Lucas, Charles, Sir, 1613-1648.</author>
+                  <author>Norwich, George Goring, Earl of, 1583?-1663.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+               </titleStmt>
+               <extent>[2], 1, [5] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B. A.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno Dom. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first leaf of text contains "A letter from Coulchester" and is signed: R. L. with 4 pages of other matter.</note>
+                  <note>"The answer of the House of Peers to the city petition" and "The answer of the House of Commons" p. [4].</note>
+                  <note>Annotation on Thomason copy: "June 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Colchester (England) --  History --  Siege, 1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161899:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 60 -->
+            <p>TWO SALLIES Forth by the Lord GORING AND Sir Charles Lucas AT <hi>Coulcheſter,</hi> on <hi>Munday</hi> and <hi>Tueſday</hi> laſt; the manner of the ſeverall Fights, and the number that were killed and taken priſoners on both ſides.</p>
+            <p>The taking of the Enemies Court of Guard, the ſetting fire thereof, and burning downe the Wind-Mills.</p>
+            <p>With the Examination of Mr. <hi>Osburn,</hi> touching the Kings Majeſty; And the Speech of Alderman <hi>Avery,</hi> at preſenting the City Petition; And the An<g ref="char:EOLhyphen"/>ſwer to the ſame by both Houſes of <hi>Parliament.</hi> 
+               <add>June 29</add>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>B. A. Anno Dom.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161899:2"/>
+            <!-- PDF PAGE 61 -->
+            <pb n="1" facs="tcp:161899:2"/>
+            <!-- PDF PAGE 61 -->
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <figDesc>royal insignia</figDesc>
+               </figure>
+            </head>
+            <div type="letter">
+               <head>A LETTER From COULCHESTER.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>THis morning a party of the Enemies ſallyed forth at the South gate, and approached neer our horſe Guard, but were quickly beaten back, and purſued by our party to the turn-pike, where they kept a Court of Guard, who upon our approach gave fire and fled away. So we entred this Guard, took ſuch arms as were left there. This Guard of theirs was kept neer the Almel-houſes, at the entrance of the Sub<g ref="char:EOLhyphen"/>urbs of the town: in this action three of the enemy were killed, and many wounded. We alſo took 12. priſo<g ref="char:EOLhyphen"/>ners, and 15 or 16 horſe with arms, two horſes of ours
+<pb facs="tcp:161899:3"/>
+                  <!-- PDF PAGE 62 -->were killed, and one man cut in the head, but the wound not mortall, nor any one of the reſt of our men recei<g ref="char:EOLhyphen"/>ving any hurt at all. Proviſions begin to grow ſcarce in the town, eſpecially bread, &amp; how they are provided with corn I know not, but I am certain they are ill pro<g ref="char:EOLhyphen"/>vided of mills to grind it if they have any. For this day we have fired and burnt down their Wind-mils to the ground, divers ſouldiers ſteal away from the enemy daily, and come into us, eſpecially ſince the Lord Ge<g ref="char:EOLhyphen"/>nerall ſent in a Letter, proffering conditions to ſuch as ſhould come to him, and unto all, if they would em<g ref="char:EOLhyphen"/>brace and yeeld up the town, which conditions were. 1. That within 24. hours after the receipt thereof, the officers laying down their armes, ſhould have paſſes to travell beyond Sea, &amp;c. 2. That the common ſouldi<g ref="char:EOLhyphen"/>ers, and all men of that rank, ſhall have liberty to de<g ref="char:EOLhyphen"/>part to their own homes, ſubmitting to the authority of Parliament. 3. That the Inhabitants of the towne ſhall be free from plunder and violence.</p>
+               <p>Theſe conditions not being accepted of, the Lord Generall is reſolved not to offer ſo good again to thoſe which are the chief in action amongſt the Enemy. Our army is in a very good condition and full of reſoluti<g ref="char:EOLhyphen"/>on, and although the Gen. is very unwilling to ſtorme the town (for that as much as in him is, he would a<g ref="char:EOLhyphen"/>void the ſhedding of bloud) yet if the Enemy wil have any more proviſions in the town, they muſt fight for it, and are like to go without it too. We hope to give a good account of this buſineſſe ſhortly.</p>
+               <closer>
+                  <signed>Your affectionate Friend, <hi>R. L.</hi>
+                  </signed>
+                  <dateline>From the Leaguer before <hi>Colcheſter,</hi> 
+                     <date>June 27. 1648.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="petition">
+               <pb facs="tcp:161899:3"/>
+               <!-- PDF PAGE 62 -->
+               <p>A Petition was preſented to both Houſes of Parlia<g ref="char:EOLhyphen"/>ment from the <hi>Lord Major, Aldermen, and Common<g ref="char:EOLhyphen"/>mon-councell of the city of London,</hi> containining theſe particulars, <hi>viz.</hi> 1. An acknowledgment of former favours, in granting their Petitions. 2. Their deepe ap<g ref="char:EOLhyphen"/>prehenſions of the preſent miſeries of the City and Kingdome, by the growth of Superſtition, Hereſie, &amp;c. and likewiſe by the commotions in ſeverall counties, and the falling off of a conſiderable part of the Navy. 3. That they apprehend no way to avoid theſe miſe<g ref="char:EOLhyphen"/>ries which threatens a decay of Trade, and imminent deſtruction, but by a good underſtanding and agree<g ref="char:EOLhyphen"/>ment between the King and Parliament. And therfore prayes, Firſt that there may be a perſonall Treaty ei<g ref="char:EOLhyphen"/>ther at <hi>London,</hi> or ſome other eminent place.</p>
+               <p>And 2. That our Brethren of <hi>Scotland</hi> may be invited to this treaty.</p>
+               <p>At the preſenting of this Petition to the Lords, Al<g ref="char:EOLhyphen"/>derman <hi>Avery</hi> made a ſpeech; wherein he ſaid, That as the hearts of Kings were in the power of the Lord to diſpoſe of as he pleaſed: So the City of <hi>London</hi> deſi<g ref="char:EOLhyphen"/>red the Lord to diſpoſe of the hearts of the King and the honourable Houſes of Parliament, that they may agree and joyn together as one man, in ſetling the peace of this diſtreſſed Kingdome.</p>
+            </div>
+            <div type="Peers_response_to_petition">
+               <pb facs="tcp:161899:4"/>
+               <!-- PDF PAGE 63 -->
+               <head>The Anſwer of the Houſe of Peers to the City Petition.</head>
+               <opener>
+                  <dateline>
+                     <date>Die Martis, 27. Iunii, 1648.</date>
+                  </dateline>
+               </opener>
+               <p>THe Lords have commanded me to return you thanks for the continuance of your good affection to the Parl. and inclinations to the peace and ſettlement of the Kingdome; and to let you know, that they were upon conſideration of that which is contained in your Peti<g ref="char:EOLhyphen"/>tion before they received it, and they will imploy all their endeavours effectually for the ſpeedy obtaining thereof, as may beſt conduce to the contentment, ſafety and happineſſe of the King, City, and the whole King<g ref="char:EOLhyphen"/>dome.</p>
+               <closer>
+                  <signed>Io: Brown Cler. Parl.</signed>
+               </closer>
+            </div>
+            <div type="Commons_response_to_petition">
+               <head>The Anſwer of the Houſe of Commons.</head>
+               <opener>
+                  <dateline>
+                     <date>Die Martis 27. Iunii, 1648.</date>
+                  </dateline>
+               </opener>
+               <p>THe Houſe being informed that the Sheriffes, Alder<g ref="char:EOLhyphen"/>men, Common-councel, and Citizens of <hi>London</hi> were at the Door, they were called in, and Mr. Speaker by command of the Houſe returned anſwer to the ſaid Petition in theſe words, <hi>viz.</hi>
+               </p>
+               <floatingText xml:lang="eng" type="response">
+                  <body>
+                     <p>The Houſe hath read your Petition preſented to them
+<pb facs="tcp:161899:4"/>
+                        <!-- PDF PAGE 63 -->in the name of the <hi>Common-councel</hi> of the city of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> wherein they take notice of their affectionate ac<g ref="char:EOLhyphen"/>knowledgments which the city expreſſeth of the hou<g ref="char:EOLhyphen"/>ſes conceſſions upon their former Petitions, and of their chriſtian and prudent deſires of a ſafe and well-groun<g ref="char:EOLhyphen"/>ded peace according to the covenant, and of that means which they propoſe in order thereunto of a perſonall Treaty. In which, as in the other particulars of your petition, the Houſe eſpecially obſerves the confidence and truſt which the city repoſes in them in leaving the conſideration of their peace and ſecurity to their wiſ<g ref="char:EOLhyphen"/>dome and care. To all which the Houſe hath comman<g ref="char:EOLhyphen"/>ded me to give this anſwer.</p>
+                     <p>
+                        <hi>That they have the ſame fellow feeling with the City and Kingdome of their ſufferings by war, and the ſame deſires with them to attain to a ſafe and well grounded peace: They have for that end ſpent a great part of this laſt moneth in conſiderations of peace, and have made ſome progreſse therein.</hi>
+                     </p>
+                     <p>
+                        <hi>And for the more ſpeedy diſpatch of what remaines fur<g ref="char:EOLhyphen"/>ther to be done, the Houſes have appointed a Committee to conſider what the King hath offered, and what is further to be offered to the</hi> King, <hi>for his ſatisfaction for ſetling of a ſpeedy and wel-grounded peace; and to conſider of time, place, and other circumſtances for conveniency of addreſse to be made to his Majeſty; and they doubt not but what they have done, and ſpeedily ſhall do herein, will be fully ſatisfactory to the city of</hi> London, <hi>and to all others that deſire to ſee the troubles of this Kingdome ended in a ſafe and juſt peace.</hi>
+                     </p>
+                     <p>
+                        <hi>And for your good affections to the Parliament and Kingdome, manifeſted by your actions in the late War, and
+<pb facs="tcp:161899:5"/>
+                           <!-- PDF PAGE 64 -->in your preſent Petition for a ſafe and wel-grounded peace, the Houſe hath commanded me to give you thanks.</hi>
+                     </p>
+                     <closer>
+                        <signed>Hen. Elſying Cler. Parl.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="letter">
+               <head>Another Letter from <hi>Coulcheſter.</hi>
+               </head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>THis preſent Tueſday a party of the Enemies forces ſallyed out of the towne vpon the Suf<g ref="char:EOLhyphen"/>folk forces on the North-Eaſt ſide, but Col. <hi>Whaley</hi> joyning with them, charged them, killed two, &amp; put the reſt to a diſorderly retreat, took ten priſoners, and ſome very good horſes. This Evening another par<g ref="char:EOLhyphen"/>ty of the Enemy attempted to go out on Harwich road, to fetch in proviſions, and were fallen uqon by a par<g ref="char:EOLhyphen"/>ty of ours, which routed them and took divers priſo<g ref="char:EOLhyphen"/>ners, one of which that was wounded ſaith, that they begin to be exceedingly ſtraightned in the towne for proviſions, eſpecially for horſe-meat: three of their Wind-mills are burnt downe, they have two Water-mils which we are cutting off, and have ſcaling Lad<g ref="char:EOLhyphen"/>ders ready to ſtorme, but the Morter-piece is not yet come up.</p>
+               <closer>
+                  <dateline>From the Leaguer before <hi>Colcheſter,</hi> 
+                     <date>June 28. 1648.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="addendum">
+               <p>Mr. <hi>Richard Osburn</hi> is come in, and was examined by the Houſe of Peers on Tueſday laſt, he ſtands in juſti<g ref="char:EOLhyphen"/>fication of what is mentioned in his Letters concerning the King; and the further examination thereof is re<g ref="char:EOLhyphen"/>ferred to a Committee.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur</p>
+            <closer>
+               <signed>G.M.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
